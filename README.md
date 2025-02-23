@@ -1,4 +1,5 @@
 # FCC Project Periodic Table Database
+## Notes
 - Start db
     - sudo service postgresql restart
     - psql --username=freecodecamp --dbname=periodic_table
